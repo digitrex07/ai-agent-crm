@@ -1,0 +1,24 @@
+[{
+  "id": 1,
+  "from": "+971521712200",
+  "date": "24/03/2025",
+  "status": "Success",
+  "agent": "Maryam_Inbound",
+  "duration": 4
+},
+{
+  "id": 2,
+  "from": "+971551712200",
+  "date": "24/03/2025",
+  "status": "Failed",
+  "agent": "Maryam_Inbound",
+  "duration": 5
+},
+{
+  "id": 3,
+  "from": "+971501712200",
+  "date": "01/04/2025",
+  "status": "Failed",
+  "agent": "Maryam_Inbound",
+  "duration": 3
+}]
