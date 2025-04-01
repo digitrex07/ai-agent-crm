@@ -1,11 +1,8 @@
 import { AccountSettings } from "@/components/account-settings";
 import { AppSidebar } from "@/components/app-sidebar";
-import { CardWithForm } from "@/components/card-form";
 import { SiteHeader } from "@/components/site-header";
-import { AgentList } from "@/components/ui/agent-list";
-import { RagSubmissionList } from "@/components/ui/rag-submissions";
+
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
-import { TeamList } from "@/components/ui/team-list";
 
 export default function Page(){
     return  <>
