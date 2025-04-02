@@ -1,6 +1,5 @@
 import { AppSidebar } from "@/components/app-sidebar";
 import { SiteHeader } from "@/components/site-header";
-import { AgentList } from "@/components/ui/agent-list";
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 import { TeamList } from "@/components/ui/team-list";
 

@@ -163,7 +163,7 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
 ]
 
 function DraggableRow({ row }: { row: Row<z.infer<typeof schema>> }) {
-  const { transform, transition, setNodeRef, isDragging } = useSortable({
+  const { transform, transition, setNodeRef } = useSortable({
     id: row.original.id,
   })
 
@@ -191,7 +191,7 @@ export function DataTable({
 }: {
   data: z.infer<typeof schema>[]
 }) {
-  const [data, setData] = React.useState(() => initialData)
+  const [data] = React.useState(() => initialData)
   const [rowSelection, setRowSelection] = React.useState({})
   const [columnVisibility, setColumnVisibility] =
     React.useState<VisibilityState>({})
