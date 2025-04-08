@@ -39,13 +39,13 @@ const data: Member[] = [
     id: "m5gr84i9",
     name: "User 1",
     status: "active",
-    email: "support@shuraa.com",
+    email: "support@ibehub.com",
   },
   {
     id: "3u1reuv4",
     name:"User 2",
     status: "active",
-    email: "info@shuraa.com",
+    email: "info@ibehub.com",
   }
 ]
 

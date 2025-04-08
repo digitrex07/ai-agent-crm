@@ -38,13 +38,13 @@ import {
 const data: Agent[] = [
   {
     id: "m5gr84i9",
-    name: "Shuraa FAQ",
+    name: "Ibehub FAQ",
     status: "active",
     number: "+97154673722",
   },
   {
     id: "3u1reuv4",
-    name:"Shuraa Outbound",
+    name:"Ibehub Outbound",
     status: "disabled",
     number: "+97154673732",
   }

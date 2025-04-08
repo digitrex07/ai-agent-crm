@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Digitrex AI CRM",
+  title: "Haloul Rahiba AI CRM",
   description: "CRM for call transcripts and agent info",
 };
 
